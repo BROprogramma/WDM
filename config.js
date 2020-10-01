@@ -31,15 +31,21 @@ var respecConfig = {
   github: "https://github.com/BROprogramma/WDM",
   //previousPublishDate: "2017-01-01",
   //previousStatus: "GN-CV",
-  localBiblio: {
-    
+  localBiblio: { 
+   
+   "Bouwmans": {
+      "href": "",
+      "title": "Achtergrond en toepassing van de TCGB-tabel: een methode voor het bepalen van de opbrengstdepressie van grasland op zandgrond als gevolg van een grondwaterstandsverlaging",
+      "authors": ["J. Bouwmans"],
+      "date": "1990",
+      "publisher": "Technische Commissie Grondwaterbeheer,Utrecht",
     },
-  //  "ISO19136": {
-  //    "href": "https://www.iso.org/standard/32554.html",
-  //    "title": "ISO 19136:2007 Geographic information -- Geography Markup Language (GML)",
-  //    "authors": [""],
-  //    "date": "September 2007",
-  //    "publisher": "International Organization for Standardization",
-  //  },
-  //},
+ "Finke2004": {
+      "href": "",
+      "title": "Klimaatsrepresentatieve grondwaterspiegeldiepte in Waterschap Peel en Maasvallei",
+      "authors": ["P.A Finke, M.F.P. Bierkens, D.J. Brus, J.W.J. van der Gaast, T. Hoogland, M. Knotters en F. de Vries"],
+      "date": "2004",
+      "publisher": "Wageningen, Alterra-rapport 383",
+    },
+  },
 };
