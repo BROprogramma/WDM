@@ -310,3 +310,23 @@ direct te koppelen.
     (GLD). Bij de totstandkoming van het model worden tijdreeksen uit DINO
     gebruikt. Voorzien is dat deze gegevens onder het RO GLD in de BRO
     geregistreerd gaan worden.
+    
+   
+Referenties
+-----------
+
+Bouwmans, J., 1990. _Achtergrond en toepassing van de TCGB-tabel: een methode voor het bepalen van de opbrengstdepressie van grasland op zandgrond als gevolg van een grondwaterstandsverlaging._ Technische Commissie Grondwaterbeheer, Utrecht.
+
+Finke, P.A., M.F.P. Bierkens, D.J. Brus, J.W.J. van der Gaast, T. Hoogland, M. Knotters en F. de Vries, 2002. _Klimaatsrepresentatieve grondwaterspiegeldiepte in Waterschap Peel en Maasvallei._ Wageningen, Alterra-rapport 383.
+
+Finke, P.A., D.J. Brus, M.F.P. Bierkens, T. Hoogland, M. Knotters en F. de Vries, 2004. _Mapping groundwater dynamics using multiple sources of exhaustive high resolution data._ Geoderma 123: 23-39.
+
+Hoogland, T., M. Knotters, M. Pleijter en D.J.J. Walvoort, 2014. _Actualisatie van de grondwatertrappenkaart van holoceen Nederland._ Wageningen, Alterra-rapport 2612.
+
+Ritzema, H.P., G.B.M. Heuvelink, M. Heinen, P.W. Bogaart, F.J.E. van der Bolt, M.J.D. Hack-ten Broeke, T. Hoogland, M. Knotters, H.T.L. Massop en H.R.J. Vroon, 2012. _Meten en interpreteren van grondwaterstanden. Analyse van methodieken en nauwkeurigheid._ Wageningen, Alterra-rapport 2345.
+
+Runhaar, H. en S. Hennekens, 2014. _Hydrologische Randvoorwaarden Natuur Versie 3; Gebruikershandleiding._ Wageningen, Nieuwegein, Utrecht, Alterra Wageningen UR, KWR Watercycle Research Institute, STOWA.
+
+Stuyt, L.C.P.M., M. Knotters, D.J.J. Walvoort, F. Brouwer en H.T.L. Massop, 2018. _Basisregistratie Ondergrond - Gd-kartering Laag-Nederland 2018; Provincie Flevoland._ Wageningen, Wettelijke Onderzoekstaken (WOt) Natuur & Milieu. WOt-technical report 145. 
+
+Werkgroep HELP-tabel, 1987. _De invloed van de waterhuishouding op de landbouwkundige produktie._ Mededelingen Landinrichtingsdienst 176, Utrecht.
