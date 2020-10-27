@@ -278,7 +278,7 @@ relevante ‘objecten’ die een samenhang kennen die hieronder geschetst is (fi
 bepaling van de GLG en GHG en de trekkingen of realisatie om de kansverdeling te
 bepalen en vormen onderdeel van dit registratieobject.
 
-![](media/7b7ed7d10811f5de5442fca46e4a212f.jpg)
+![](media/103f72c50b06490a102aa87f71bc451a.png)
 
 *Figuur 2 ‘Objecten’ binnen dit Registratieobject*
 
@@ -291,7 +291,7 @@ samenhang met andere registratieobjecten in de BRO aan. Deze indirecte samenhang
 is geen onderdeel van dit registratieobject en is ook niet gegevens-inhoudelijk
 direct te koppelen.
 
-![](media/c3b04ed3cef304ab2abdac0110b9e495.jpg)
+![](media/82c6e1bcae142c753b8b027cf73335ef.png)
 
 *Figuur 3 ‘indirecte samenhang met andere registratieobjecten in de BRO*
 
@@ -310,23 +310,40 @@ direct te koppelen.
     (GLD). Bij de totstandkoming van het model worden tijdreeksen uit DINO
     gebruikt. Voorzien is dat deze gegevens onder het RO GLD in de BRO
     geregistreerd gaan worden.
-    
-   
+
 Referenties
 -----------
 
-Bouwmans, J., 1990. _Achtergrond en toepassing van de TCGB-tabel: een methode voor het bepalen van de opbrengstdepressie van grasland op zandgrond als gevolg van een grondwaterstandsverlaging._ Technische Commissie Grondwaterbeheer, Utrecht.
+Bouwmans, J., 1990. *Achtergrond en toepassing van de TCGB-tabel: een methode
+voor het bepalen van de opbrengstdepressie van grasland op zandgrond als gevolg
+van een grondwaterstandsverlaging.* Technische Commissie Grondwaterbeheer,
+Utrecht.
 
-Finke, P.A., M.F.P. Bierkens, D.J. Brus, J.W.J. van der Gaast, T. Hoogland, M. Knotters en F. de Vries, 2002. _Klimaatsrepresentatieve grondwaterspiegeldiepte in Waterschap Peel en Maasvallei._ Wageningen, Alterra-rapport 383.
+Finke, P.A., M.F.P. Bierkens, D.J. Brus, J.W.J. van der Gaast, T. Hoogland, M.
+Knotters en F. de Vries, 2002. *Klimaatsrepresentatieve grondwaterspiegeldiepte
+in Waterschap Peel en Maasvallei.* Wageningen, Alterra-rapport 383.
 
-Finke, P.A., D.J. Brus, M.F.P. Bierkens, T. Hoogland, M. Knotters en F. de Vries, 2004. _Mapping groundwater dynamics using multiple sources of exhaustive high resolution data._ Geoderma 123: 23-39.
+Finke, P.A., D.J. Brus, M.F.P. Bierkens, T. Hoogland, M. Knotters en F. de
+Vries, 2004. *Mapping groundwater dynamics using multiple sources of exhaustive
+high resolution data.* Geoderma 123: 23-39.
 
-Hoogland, T., M. Knotters, M. Pleijter en D.J.J. Walvoort, 2014. _Actualisatie van de grondwatertrappenkaart van holoceen Nederland._ Wageningen, Alterra-rapport 2612.
+Hoogland, T., M. Knotters, M. Pleijter en D.J.J. Walvoort, 2014. *Actualisatie
+van de grondwatertrappenkaart van holoceen Nederland.* Wageningen,
+Alterra-rapport 2612.
 
-Ritzema, H.P., G.B.M. Heuvelink, M. Heinen, P.W. Bogaart, F.J.E. van der Bolt, M.J.D. Hack-ten Broeke, T. Hoogland, M. Knotters, H.T.L. Massop en H.R.J. Vroon, 2012. _Meten en interpreteren van grondwaterstanden. Analyse van methodieken en nauwkeurigheid._ Wageningen, Alterra-rapport 2345.
+Ritzema, H.P., G.B.M. Heuvelink, M. Heinen, P.W. Bogaart, F.J.E. van der Bolt,
+M.J.D. Hack-ten Broeke, T. Hoogland, M. Knotters, H.T.L. Massop en H.R.J. Vroon,
+2012. *Meten en interpreteren van grondwaterstanden. Analyse van methodieken en
+nauwkeurigheid.* Wageningen, Alterra-rapport 2345.
 
-Runhaar, H. en S. Hennekens, 2014. _Hydrologische Randvoorwaarden Natuur Versie 3; Gebruikershandleiding._ Wageningen, Nieuwegein, Utrecht, Alterra Wageningen UR, KWR Watercycle Research Institute, STOWA.
+Runhaar, H. en S. Hennekens, 2014. *Hydrologische Randvoorwaarden Natuur Versie
+3; Gebruikershandleiding.* Wageningen, Nieuwegein, Utrecht, Alterra Wageningen
+UR, KWR Watercycle Research Institute, STOWA.
 
-Stuyt, L.C.P.M., M. Knotters, D.J.J. Walvoort, F. Brouwer en H.T.L. Massop, 2018. _Basisregistratie Ondergrond - Gd-kartering Laag-Nederland 2018; Provincie Flevoland._ Wageningen, Wettelijke Onderzoekstaken (WOt) Natuur & Milieu. WOt-technical report 145. 
+Stuyt, L.C.P.M., M. Knotters, D.J.J. Walvoort, F. Brouwer en H.T.L. Massop,
+2018. *Basisregistratie Ondergrond - Gd-kartering Laag-Nederland 2018; Provincie
+Flevoland.* Wageningen, Wettelijke Onderzoekstaken (WOt) Natuur & Milieu.
+WOt-technical report 145.
 
-Werkgroep HELP-tabel, 1987. _De invloed van de waterhuishouding op de landbouwkundige produktie._ Mededelingen Landinrichtingsdienst 176, Utrecht.
+Werkgroep HELP-tabel, 1987. *De invloed van de waterhuishouding op de
+landbouwkundige produktie.* Mededelingen Landinrichtingsdienst 176, Utrecht.
