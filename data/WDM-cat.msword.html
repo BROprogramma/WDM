@@ -14,8 +14,8 @@
    </head>
    <body>
       <p>Conceptual model/Model grondwaterspiegeldiepte (WDM) - conceptueel/20200721</p>
-      <p>Imvertor: 1.61.3</p>
-      <p>Model release: Conceptualmodel-ModelgrondwaterspiegeldiepteWDM-conceptueel-1.0-1-20200721-20201027-203909</p>
+      <p>Imvertor: 1.62.0</p>
+      <p>Model release: Conceptualmodel-ModelgrondwaterspiegeldiepteWDM-conceptueel-1.0-1-20200721-20201029-110437</p>
       <hr>
       <section>
          <h1>Artikel 1 Definitie van registratieobject, entiteiten en attributen</h1>
@@ -70,10 +70,11 @@
                            <th>Definitie</th>
                            <td>
                               
-                              <p>Het model grondwaterspiegeldiepte (<em>water depth model</em>) is 
-                                 de verzameling statistieken bestaande uit de gemiddeld hoogste grondwaterstand (GHG),
-                                 gemiddeld laagste grondwaterstand (GLG), gemiddelde voorjaars grondwaterstand (GVG)
-                                 en de grondwatertrap (Gt) die de grondwaterspiegeldiepte in Nederland karakteriseert.</p>
+                              <p>Het model grondwaterspiegeldiepte (water table depth model, WDM) is de landsdekkende
+                                 verzameling berekende en in grids gediscretiseerde statistieken bestaande uit de gemiddeld
+                                 hoogste grondwaterstand (GHG), de gemiddeld laagste grondwaterstand (GLG), de gemiddelde
+                                 voorjaars grondwaterstand (GVG) en de grondwatertrap (Gt) die de grondwaterspiegeldiepte
+                                 in Nederland karakteriseert.</p>
                               </td>
                         </tr>
                         <tr>
@@ -99,8 +100,9 @@
                            <td>
                               
                               <p>Een grid (coverage) met gegevens over de hoogste, laagste en voorjaars grondwaterspiegeldiepten,
-                                 de classificatie van de grondwatertrappen, en toelichting op de totstandkoming van
-                                 (delen van) het grid.</p>
+                                 de classificatie van de grondwatertrappen , de realisaties op basis waarvan deze statistieken
+                                 tot stand zijn gekomen, en de toelichting op de totstandkoming van (de onderdelen
+                                 van) het grid.</p>
                               </td>
                         </tr>
                      </tbody>
@@ -140,7 +142,7 @@
                               <th>Definitie</th>
                               <td>
                                  
-                                 <p>Gemeten diepte van de grondwaterspiegel.</p>
+                                 <p>Gemeten diepte van de grondwaterspiegel ten opzichte van het maaiveld. </p>
                                  </td>
                            </tr>
                            <tr>
@@ -167,14 +169,6 @@
                            <tr>
                               <th>&nbsp;&nbsp;Waardebereik</th>
                               <td> vanaf 0</td>
-                           </tr>
-                           <tr>
-                              <th>Mogelijk geen waarde</th>
-                              <td>Ja</td>
-                           </tr>
-                           <tr>
-                              <th>Toelichting</th>
-                              <td>Centimeters beneden maaiveld.</td>
                            </tr>
                         </tbody>
                      </table>
@@ -323,70 +317,6 @@
                         </tbody>
                      </table>
                      </section>
-               </section><a class="anchor" id="graph_EAID_58AEC090_D83F_4707_B418_3D9C79CC58CE"></a><a class="anchor" id="global_class_ModelGrondwaterspiegeldiepteWDM_Grondwatertrap"></a><section id="global_class_ModelGrondwaterspiegeldiepteWDM_Grondwatertrap">
-                  <h3>   Grondwatertrap</h3>
-                  <table style="width: 100%;">
-                     <colgroup style="width: 30%;"></colgroup>
-                     <colgroup style="width: 70%;"></colgroup>
-                     <tbody>
-                        <tr>
-                           <th>Type gegeven</th>
-                           <td>Entiteit</td>
-                        </tr>
-                        <tr>
-                           <th>Definitie</th>
-                           <td>
-                              
-                              <p>De mediane waarde en realisaties voor de classificatie van de grondwatertrap.</p>
-                              </td>
-                        </tr>
-                        <tr>
-                           <th>Toelichting</th>
-                           <td>Grondwatertrap geeft een classificatie/indicatie van de gemiddelde hoogste grondwaterstand
-                              (GHG) en de gemiddeld laagste grondwaterstand (GLG).
-                              
-                              Ofwel: de GHG en GLG realiseren de classificatie van de grondwatertrap (Gt).</td>
-                        </tr>
-                     </tbody>
-                  </table>
-               </section><a class="anchor" id="graph_EAID_F09743D7_6B95_4243_A403_BEC64D04F7FF"></a><a class="anchor" id="global_class_ModelGrondwaterspiegeldiepteWDM_Grondwaterspiegeldiepte"></a><section id="global_class_ModelGrondwaterspiegeldiepteWDM_Grondwaterspiegeldiepte">
-                  <h3>   Grondwaterspiegeldiepte</h3>
-                  <table style="width: 100%;">
-                     <colgroup style="width: 30%;"></colgroup>
-                     <colgroup style="width: 70%;"></colgroup>
-                     <tbody>
-                        <tr>
-                           <th>Type gegeven</th>
-                           <td>Entiteit</td>
-                        </tr>
-                        <tr>
-                           <th>Definitie</th>
-                           <td>
-                              
-                              <p>De mediane waarde en realisaties van de grondwaterspiegeldiepte.</p>
-                              </td>
-                        </tr>
-                     </tbody>
-                  </table>
-               </section><a class="anchor" id="graph_EAID_C0D21A75_9A6A_446d_8157_B61183B58A48"></a><a class="anchor" id="global_class_ModelGrondwaterspiegeldiepteWDM_Bereik"></a><section id="global_class_ModelGrondwaterspiegeldiepteWDM_Bereik">
-                  <h3>   Bereik</h3>
-                  <table style="width: 100%;">
-                     <colgroup style="width: 30%;"></colgroup>
-                     <colgroup style="width: 70%;"></colgroup>
-                     <tbody>
-                        <tr>
-                           <th>Type gegeven</th>
-                           <td>Entiteit</td>
-                        </tr>
-                        <tr>
-                           <th>Definitie</th>
-                           <td>
-                              
-                              <p>Waardeverzameling van een gridcel bestaande uit de GxG, Gt en totstandkoming.</p>
-                              </td>
-                        </tr>
-                     </tbody>
-                  </table>
                </section><a class="anchor" id="graph_EAID_D0A6330A_6492_45f1_980C_0E417377CA37"></a><a class="anchor" id="global_class_ModelGrondwaterspiegeldiepteWDM_Gridcel"></a><section id="global_class_ModelGrondwaterspiegeldiepteWDM_Gridcel">
                   <h3>   Gridcel</h3>
                   <table style="width: 100%;">
@@ -411,6 +341,25 @@
                         </tr>
                      </tbody>
                   </table>
+               </section><a class="anchor" id="graph_EAID_C0D21A75_9A6A_446d_8157_B61183B58A48"></a><a class="anchor" id="global_class_ModelGrondwaterspiegeldiepteWDM_Bereik"></a><section id="global_class_ModelGrondwaterspiegeldiepteWDM_Bereik">
+                  <h3>   Bereik</h3>
+                  <table style="width: 100%;">
+                     <colgroup style="width: 30%;"></colgroup>
+                     <colgroup style="width: 70%;"></colgroup>
+                     <tbody>
+                        <tr>
+                           <th>Type gegeven</th>
+                           <td>Entiteit</td>
+                        </tr>
+                        <tr>
+                           <th>Definitie</th>
+                           <td>
+                              
+                              <p>Waardeverzameling van een gridcel bestaande uit de GxG, Gt en totstandkoming.</p>
+                              </td>
+                        </tr>
+                     </tbody>
+                  </table>
                </section><a class="anchor" id="graph_EAID_E3897485_3C5F_43f3_9182_9E6E754D984F"></a><a class="anchor" id="global_class_ModelGrondwaterspiegeldiepteWDM_Domein"></a><section id="global_class_ModelGrondwaterspiegeldiepteWDM_Domein">
                   <h3>   Domein</h3>
                   <table style="width: 100%;">
@@ -425,8 +374,53 @@
                            <th>Definitie</th>
                            <td>
                               
-                              <p>Positie van een gridcel.</p>
+                              <p>Ruimtelijke afbakening van een gridcel.</p>
                               </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </section><a class="anchor" id="graph_EAID_F09743D7_6B95_4243_A403_BEC64D04F7FF"></a><a class="anchor" id="global_class_ModelGrondwaterspiegeldiepteWDM_Grondwaterspiegeldiepte"></a><section id="global_class_ModelGrondwaterspiegeldiepteWDM_Grondwaterspiegeldiepte">
+                  <h3>   Grondwaterspiegeldiepte</h3>
+                  <table style="width: 100%;">
+                     <colgroup style="width: 30%;"></colgroup>
+                     <colgroup style="width: 70%;"></colgroup>
+                     <tbody>
+                        <tr>
+                           <th>Type gegeven</th>
+                           <td>Entiteit</td>
+                        </tr>
+                        <tr>
+                           <th>Definitie</th>
+                           <td>
+                              
+                              <p>De mediane waarde en realisaties van de grondwaterspiegeldiepte.</p>
+                              </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </section><a class="anchor" id="graph_EAID_58AEC090_D83F_4707_B418_3D9C79CC58CE"></a><a class="anchor" id="global_class_ModelGrondwaterspiegeldiepteWDM_Grondwatertrap"></a><section id="global_class_ModelGrondwaterspiegeldiepteWDM_Grondwatertrap">
+                  <h3>   Grondwatertrap</h3>
+                  <table style="width: 100%;">
+                     <colgroup style="width: 30%;"></colgroup>
+                     <colgroup style="width: 70%;"></colgroup>
+                     <tbody>
+                        <tr>
+                           <th>Type gegeven</th>
+                           <td>Entiteit</td>
+                        </tr>
+                        <tr>
+                           <th>Definitie</th>
+                           <td>
+                              
+                              <p>De mediane waarde en realisaties voor de classificatie van de grondwatertrap.</p>
+                              </td>
+                        </tr>
+                        <tr>
+                           <th>Toelichting</th>
+                           <td>Grondwatertrap geeft een classificatie/indicatie van de gemiddelde hoogste grondwaterstand
+                              (GHG) en de gemiddeld laagste grondwaterstand (GLG).
+                              
+                              Ofwel: de GHG en GLG realiseren de classificatie van de grondwatertrap (Gt).</td>
                         </tr>
                      </tbody>
                   </table>
@@ -464,7 +458,7 @@
       <section>
          <h1>Artikel 2 Beschrijving van uitbreidbare waardelijsten    </h1>
          <section id="detail_class_ModelGrondwaterspiegeldiepteWDM_TypeWaarneming">
-            <h3>  TypeWaarneming</h3>
+            <h3>Enumeratie details  TypeWaarneming</h3>
             
             <table style="width: 100%;" class="list">
                <colgroup></colgroup>
@@ -504,7 +498,7 @@
             </table>
             </section>
          <section id="detail_class_ModelGrondwaterspiegeldiepteWDM_Grondwatertrapklasse">
-            <h3>  Grondwatertrapklasse</h3>
+            <h3>Enumeratie details  Grondwatertrapklasse</h3>
             
             <table style="width: 100%;" class="list">
                <colgroup></colgroup>
