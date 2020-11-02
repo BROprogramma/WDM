@@ -268,7 +268,7 @@ relevante ‘objecten’ die een samenhang kennen die hieronder geschetst is (fi
 bepaling van de GLG en GHG en de trekkingen of realisatie om de kansverdeling te
 bepalen en vormen onderdeel van dit registratieobject.
 
-![](media/103f72c50b06490a102aa87f71bc451a.png)
+![](media/6b797e6f82f8d53605c0114d1e502c09.png)
 
 *Figuur 2 ‘Objecten’ binnen dit Registratieobject*
 
@@ -281,7 +281,7 @@ samenhang met andere registratieobjecten in de BRO aan. Deze indirecte samenhang
 is geen onderdeel van dit registratieobject en is ook niet gegevens-inhoudelijk
 direct te koppelen.
 
-![](media/82c6e1bcae142c753b8b027cf73335ef.png)
+![](media/4afb57605a80a816d1cf5c2ce1453d29.png)
 
 *Figuur 3 ‘indirecte samenhang met andere registratieobjecten in de BRO*
 
