@@ -10,13 +10,19 @@ var respecConfig = {
     alt: "Ministerie BZK",   
     id: 'BZK',
   }]  ,
-  editors: [],
-  authors: [
+  editors:  [
     {
-      name: "TNO Geologische Dienst Nederland",
+      name: "Geonovum",
 	  mailto: "support@broservicedesk.nl",
 	  note: "088 – 8664 999",
-      companyURL: "http://www.tno.nl",
+      companyURL: "http://www.geonovum.nl",
+    }],
+  authors: [
+    {
+      name: "Geonovum",
+	  mailto: "support@broservicedesk.nl",
+	  note: "088 – 8664 999",
+      companyURL: "http://www.geonovum.nl",
     }],
   shortName: "wdm",
   pubDomain: "bro",
