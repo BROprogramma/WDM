@@ -216,8 +216,8 @@ registratie-object beperkt zich daarom nu tot deze parameters.
 >   1987), TCGB-tabellen (Bouwmans, 1990), Waterwijzer Landbouw, Hydrologische
 >   Randvoorwaarden Natuur (Runhaar en Hennekens, 2014).
 
-Gerichte opnames grondwaterspiegeldiepte metingen 
---------------------------------------------------
+Grondwaterspiegeldiepte metingen 
+---------------------------------
 
 Een belangrijk onderdeel van de methodiek voor het model grondwaterspiegeldiepte
 vormen de zogeheten gerichte opnames van grondwaterstanden, die ‘gericht’ in het
