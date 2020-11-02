@@ -86,10 +86,14 @@ classificatie in Grondwatertrappen (Gt’s) zoals we die in Nederland kennen.
 
 De nauwkeurigheid van de grondwaterspiegeldieptekarakteristieken is eveneens
 onderdeel van het model, in de vorm van een groot aantal (300 of meer)
-realisaties (trekkingen) uit de kansverdelingen van deze karakteristieken. Door
-realisaties (trekkingen) uit de kansverdeling op te nemen in het model hoeft de
-BRO gebruiker van het model grondwaterspiegeldiepte geen veronderstellingen te
-doen over de vorm van de kansverdeling.
+realisaties (trekkingen) uit de kansverdelingen van deze karakteristieken. (zie
+figuur 1.) Door realisaties (trekkingen) uit de kansverdeling op te nemen in het
+model hoeft de BRO gebruiker van het model grondwaterspiegeldiepte geen
+veronderstellingen te doen over de vorm van de kansverdeling.
+
+![](media/797e151dd13b961092a5ea537045cdc3.png)
+
+*Figuur 1. Samenhang tussen realisaties en best estimate van GxG en Gt.*
 
 Het model grondwaterspiegeldiepte verschilt van voorspellingen die met
 fysisch-mechanistische modellen kunnen worden gemaakt van de
@@ -122,12 +126,8 @@ fluctueert: GHG, GLG, GVG, Gt, duurlijn, regimecurve en kwelklasse. De
 afkortingen worden hieronder verklaard. Ritzema e.a. (2012) geven definities van
 de GxG (GxG is een verzamelterm voor GHG, GLG en GVG). Waar in deze definities
 sprake is van ‘grondwaterstand’ wordt de grondwaterspiegeldiepte ten opzichte
-van maaiveld bedoeld (figuur 1). Deze wordt uitgedrukt in centimeters. Het teken
-van de GxG is positief voor standen beneden maaiveld.
-
-![](media/f2017c86932f96a0450597fe7c5a0615.jpg)
-
-*Figuur 1 Grondwaterstand: grondwaterspiegeldiepte ten opzichte van maaiveld*
+van maaiveld bedoeld. Deze wordt uitgedrukt in centimeters. Het teken van de GxG
+is positief voor standen beneden maaiveld.
 
 Gemiddelde Hoogste Grondwaterstand (GHG): Gemiddelde van de HG3 over een periode
 van 30 jaar onder gegeven klimatologische en waterhuishoudkundige
@@ -159,22 +159,21 @@ classificatie aangepast en uitgebreid, zie Tabel 1 voor een overzicht.
 Tabel 1 Grondwatertrappenindelingen voor de Bodemkaart van Nederland, schaal 1 :
 50 000, met kwalitatieve toevoegingen
 
-| Gt-klassen | Klassegrenzen in cm. - maaiveld | Kwalitatieve toevoegingen (sinds 1988) |            |                |         |
-|------------|---------------------------------|----------------------------------------|------------|----------------|---------|
-| 1966       | 1977                            | 1988                                   | GHG        | GLG            |         |
-| I          | I                               | I                                      | \- (0-20)1 | \<50           | w       |
-| II         | II                              | II                                     | \- (0-30)1 | 50-80          | b, w    |
-|            | II\*                            | IIb                                    | 25-40      | 50-80          |         |
-|            |                                 | IIc                                    | \>40       | 50-80          |         |
-| III        | III                             | III                                    | \<40       | 80-120         | b, w    |
-|            | III\*                           | IIIb                                   | 25-40      | 80-120         |         |
-| IV         | IV                              | IV                                     | 40-80      | 80-120         | b       |
-|            |                                 | IVc                                    | \>80       | 80-120         |         |
-| V          | V                               | V                                      | \<40       | \>120          | b, s, w |
-|            | V\*                             | Vb                                     | 25-40      | \>120          |         |
-| VI         | VI                              | VI                                     | 40-80      | \>120          | b, s    |
-| VII        | VII                             | VII                                    | 80-140     | \>120          | b, s    |
-|            | VII\*                           | VIII                                   | \>140      | \>120 (\>160)1 |         |
+| Gt-klassen (1966) | Klassegrenzen in cm. – maaiveld (1977) | Kwalitatieve toevoegingen (sinds 1988) | GHG in cm  | GLG in cm      | Kwantitatieve toevoegingen |
+|-------------------|----------------------------------------|----------------------------------------|------------|----------------|----------------------------|
+| I                 | I                                      | I                                      | \- (0-20)1 | \<50           | w                          |
+| II                | II                                     | II                                     | \- (0-30)1 | 50-80          | b, w                       |
+|                   | II\*                                   | IIb                                    | 25-40      | 50-80          |                            |
+|                   |                                        | IIc                                    | \>40       | 50-80          |                            |
+| III               | III                                    | III                                    | \<40       | 80-120         | b, w                       |
+|                   | III\*                                  | IIIb                                   | 25-40      | 80-120         |                            |
+| IV                | IV                                     | IV                                     | 40-80      | 80-120         | b                          |
+|                   |                                        | IVc                                    | \>80       | 80-120         |                            |
+| V                 | V                                      | V                                      | \<40       | \>120          | b, s, w                    |
+|                   | V\*                                    | Vb                                     | 25-40      | \>120          |                            |
+| VI                | VI                                     | VI                                     | 40-80      | \>120          | b, s                       |
+| VII               | VII                                    | VII                                    | 80-140     | \>120          | b, s                       |
+|                   | VII\*                                  | VIII                                   | \>140      | \>120 (\>160)1 |                            |
 
 1(...) meest voorkomende waarden binnen een groter GHG- of GLG-traject
 
@@ -217,20 +216,11 @@ registratie-object beperkt zich daarom nu tot deze parameters.
 >   1987), TCGB-tabellen (Bouwmans, 1990), Waterwijzer Landbouw, Hydrologische
 >   Randvoorwaarden Natuur (Runhaar en Hennekens, 2014).
 
-Gerichte opnames grondwaterspiegeldiepte
-----------------------------------------
+Gerichte opnames grondwaterspiegeldiepte metingen 
+--------------------------------------------------
 
-Een belangrijk onderdeel van de methodiek voor het model grondwaterspiegeldiepte
-vormen de zogeheten gerichte opnames van grondwaterstanden, die ‘gericht’ in het
-voorjaar en najaar worden uitgevoerd. Deze vinden plaats in aanvulling op de
-grondwaterstanden uit de BRO (grondwaterstandonderzoek) en gegevens uit andere
-bronnen, met als doel het meetnet van grondwaterstanden te verdichten. Gerichte
-opnames van de grondwaterstandsdiepte worden in het veld uitgevoerd op daartoe
-geselecteerde locaties. Op die locaties wordt de grondwaterstandsdiepte twee
-keer in een open boorgat gemeten: één keer aan het einde van het zomerseizoen
-(GLG) en één keer aan het einde van het winterseizoen (GHG). Deze metingen
-worden ‘gerichte opnames’ genoemd, namelijk gericht op het in kaart brengen van
-de GLG en de GHG.
+Een belangrijk onderdeel van de methodiek voor het model grondwaterspiegeldiepte vormen de zogeheten gerichte opnames van grondwaterstanden, die ‘gericht’ in het voorjaar en najaar worden uitgevoerd en die we hier verder grondwaterspiegeldieptemetingen zullen noemen. Deze vinden plaats in aanvulling op de grondwaterstanden uit de BRO (grondwaterstandonderzoek) en gegevens uit andere bronnen, met als doel het meetnet van grondwaterstanden te verdichten. Gerichte opnames van de grondwaterstandsdiepte rondwaterspiegeldieptemetingen worden in het veld uitgevoerd op daartoe geselecteerde locaties. Op die locaties wordt de grondwaterspiegeltandsdiepte twee keer in een open boorgat gemeten: één keer aan het einde van het zomerseizoen (GLG) en één keer aan het einde van het winterseizoen (GHG). Deze metingen worden ook wel ‘gerichte opnames’ genoemd, namelijk gericht op het in kaart brengen van de GLG en de GHG. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nauwkeurigheid van informatie over de grondwaterspiegeldiepte
 -------------------------------------------------------------
