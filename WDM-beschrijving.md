@@ -219,8 +219,18 @@ registratie-object beperkt zich daarom nu tot deze parameters.
 Gerichte opnames grondwaterspiegeldiepte metingen 
 --------------------------------------------------
 
-Een belangrijk onderdeel van de methodiek voor het model grondwaterspiegeldiepte vormen de zogeheten gerichte opnames van grondwaterstanden, die ‘gericht’ in het voorjaar en najaar worden uitgevoerd en die we hier verder grondwaterspiegeldieptemetingen zullen noemen. Deze vinden plaats in aanvulling op de grondwaterstanden uit de BRO (grondwaterstandonderzoek) en gegevens uit andere bronnen, met als doel het meetnet van grondwaterstanden te verdichten. Gerichte opnames van de grondwaterstandsdiepte rondwaterspiegeldieptemetingen worden in het veld uitgevoerd op daartoe geselecteerde locaties. Op die locaties wordt de grondwaterspiegeltandsdiepte twee keer in een open boorgat gemeten: één keer aan het einde van het zomerseizoen (GLG) en één keer aan het einde van het winterseizoen (GHG). Deze metingen worden ook wel ‘gerichte opnames’ genoemd, namelijk gericht op het in kaart brengen van de GLG en de GHG. 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Een belangrijk onderdeel van de methodiek voor het model grondwaterspiegeldiepte
+vormen de zogeheten gerichte opnames van grondwaterstanden, die ‘gericht’ in het
+voorjaar en najaar worden uitgevoerd en die we hier verder
+grondwaterspiegeldieptemetingen zullen noemen. Deze vinden plaats in aanvulling
+op de grondwaterstanden uit de BRO (grondwaterstandonderzoek) en gegevens uit
+andere bronnen, met als doel het meetnet van grondwaterstanden te verdichten.
+Gerichte opnames van de grondwaterstandsdiepte rondwaterspiegeldieptemetingen
+worden in het veld uitgevoerd op daartoe geselecteerde locaties. Op die locaties
+wordt de grondwaterspiegeltandsdiepte twee keer in een open boorgat gemeten: één
+keer aan het einde van het zomerseizoen (GLG) en één keer aan het einde van het
+winterseizoen (GHG). Deze metingen worden ook wel ‘gerichte opnames’ genoemd,
+namelijk gericht op het in kaart brengen van de GLG en de GHG.
 
 Nauwkeurigheid van informatie over de grondwaterspiegeldiepte
 -------------------------------------------------------------
