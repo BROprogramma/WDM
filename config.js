@@ -1,5 +1,5 @@
 var respecConfig = {
-  specStatus: "GN-WV",
+  specStatus: "GN-CV",
   specType: "IM",
   //subtitle: "BRO gegevenscatalogus",
    //publishDate: "2020-03-31", 
