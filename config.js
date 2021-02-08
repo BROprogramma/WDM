@@ -9,6 +9,8 @@ var respecConfig = {
     href: "https://www.geobasisregistraties.nl/basisregistraties/ondergrond",
     alt: "Ministerie BZK",   
     id: 'BZK',
+    width: '776px';
+    height: '163px';
   }]  ,
   editors:  [
     {
