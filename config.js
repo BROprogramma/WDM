@@ -1,14 +1,16 @@
 var respecConfig = {
-  specStatus: "GN-WV",
+  specStatus: "GN-VV",
   specType: "IM",
   //subtitle: "BRO gegevenscatalogus",
-   //publishDate: "2020-03-31", 
+  publishDate: "2020-02-01", 
   logos: [  
   {
     src: 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png',
     href: "https://www.geobasisregistraties.nl/basisregistraties/ondergrond",
-    alt: "Ministerie BZK",   
-    id: 'BZK',
+    alt: "Ministerie BZK",
+    width: 776,
+    height: 163,
+    id: 'logo_minbzk',
   }]  ,
   editors:  [
     {
