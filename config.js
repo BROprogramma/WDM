@@ -7,10 +7,10 @@ var respecConfig = {
   {
     src: 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png',
     href: "https://www.geobasisregistraties.nl/basisregistraties/ondergrond",
-    alt: "Ministerie BZK",   
-    id: 'BZK',
-    width: '776px';
-    height: '163px';
+    alt: "Ministerie BZK",
+    width: 776,
+    height: 163,
+    id: 'logo_minbzk',
   }]  ,
   editors:  [
     {
