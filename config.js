@@ -2,7 +2,7 @@ var respecConfig = {
   specStatus: "GN-VV",
   specType: "IM",
   //subtitle: "BRO gegevenscatalogus",
-  publishDate: "2020-02-01", 
+  publishDate: "2020-02-24", 
   logos: [  
   {
     src: 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png',
