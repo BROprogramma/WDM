@@ -1,9 +1,9 @@
-Repository voor registratieobject Model grondwaterspiegeldiepte, ofwel Water Depth Model (WDM). 
+## Grondwaterspiegeldiepte
+Deze repository wordt gebruikt voor het ontwikkelen van de BRO catalogus Grondwaterspiegeldiepte.
 
-Voorheen Grondwaterdynamiek (GDM)
+De onderhanden versie van deze catalogus is te vinden op https://broprogramma.github.io/WDM/.
 
-## Publieke consultatie
-Van 2 november tot en met 14 december liep de consultatie over de catalogus Model grondwaterspiegeldiepte. De binnengekomen opmerkingen en hoe die zijn verwerkt vindt u op de [BRO productomgeving][1]
+##  Definitieve versie
+De vastgestelde catalogus is te vinden op de [BRO Productomgeving][1].
 
-
-[1]: https://bro-productomgeving.nl/bpo/latest/modellen/model-grondwaterspiegeldiepte-wdm/wdm-catalogus/wdm-verslag-publieke-consultatie-catalogus-0-9
+[1]: https://bro-productomgeving.nl/bpo/latest
