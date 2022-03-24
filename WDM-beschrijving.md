@@ -57,6 +57,10 @@ opgemerkt te worden dat gebieden waar grondwater zo diep zit dat geen aanvulling
 van grondwater naar het bodemprofiel plaatsvindt niet op de kaart zijn ingevuld
 (de ‘witte’ gebieden).
 
+Het Ministerie van Landbouw, Natuur en Voedselkwaliteit (LNV) is de bronhouder,
+en Wageningen Environmental Research (WENR) is de dataleverancier van het
+grondwaterspiegeldieptemodel (WDM).
+
 Definitie van het model grondwaterspiegeldiepte
 -----------------------------------------------
 
@@ -67,15 +71,14 @@ opzichte van een vast referentieniveau (meestal NAP). De term
 de term *grondwaterspiegeldiepte* is gekozen omdat deze taalkundig beter is dan
 de term grondwaterstandsdiepte en beter aansluit bij de term *water table
 depth* die in de internationale literatuur wordt gebruikt. Het registratieobject
-‘Model Grondwaterspiegeldiepte’[\^1] is landsdekkend en heeft op dit moment
-betrekking op het niet-verharde, niet-bebouwde deel van Nederland. Het model
-grondwaterspiegeldiepte is gebaseerd op gemeten grondwaterspiegeldieptes en
-gebiedsdekkende hulpinformatie zoals hoogtemodellen van het maaiveld. Opgenomen
-zijn verschillende, statistisch berekende karakteristieken van de dynamiek
-(seizoensfluctuatie) van de grondwaterspiegeldiepte in Nederland.
-
-[\^1]: De Engelse benaming van het registratieobject is: Water Table Depth Model
-(afkorting gebruikt binnen het BRO programma is: WDM)
+‘Model
+Grondwaterspiegeldiepte’[\^1](De%20Engelse%20benaming%20van%20het%20registratieobject%20is:%20Water%20Table%20Depth%20Model)
+is landsdekkend en heeft op dit moment betrekking op het niet-verharde,
+niet-bebouwde deel van Nederland. Het model grondwaterspiegeldiepte is gebaseerd
+op gemeten grondwaterspiegeldieptes en gebiedsdekkende hulpinformatie zoals
+hoogtemodellen van het maaiveld. Opgenomen zijn verschillende, statistisch
+berekende karakteristieken van de dynamiek (seizoensfluctuatie) van de
+grondwaterspiegeldiepte in Nederland.
 
 We spreken over een model van de grondwaterspiegeldiepte omdat het
 gebiedsdekkende voorspellingen (interpolaties) betreft, die met statistische
