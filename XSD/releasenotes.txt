@@ -1,0 +1,19 @@
+XSD gebaseerd op vv-im-wdm-20210224
+Conceptversie xsd 29-3-2021 v0.2
+
+Volgende nabewerkingen na genereren met Imvertor:
+
+- In element WaterTableDepthModelGrid substitutionGroup="wdm:CV_Coverage" geschrapt.
+- In element WaterTableDepthModelGridType het attribuut base in element xs:extension van xs:simpleContent aangepast naar xs:base64Binary
+- In <xs:element name="WaterTabelDepthModel" ..> attribiuut substitutionGroup="wdm:RegistrationObject" vervangen door substitutionGroup="bro:RegistrationObject"
+- Opgeschoond:
+		<xs:element name="RegistrationObject" ..>
+		<xs:complexType name="RegistrationObjectType">
+		<xs:complexType name="RegistrationObjectPropertyType">
+		alle elementen en complexTypes met betrekking tot Grid en Coverage
+
+T.o.v. versie 0.1 van 25-02-2020:
+- namespace aangepast.
+- ontbrekende referentie naar Grid opgelost.
+
+N.B. verwijzing van WaterTableDepthModel naar een relatedGrid kan by-reference via xlink:href of door inline opnemen van een base64-encoded grid.
