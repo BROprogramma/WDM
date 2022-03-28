@@ -1,8 +1,8 @@
 var respecConfig = {
-  specStatus: "GN-VV",
+  specStatus: "GN-WV",
   specType: "IM",
   //subtitle: "BRO gegevenscatalogus",
-  publishDate: "2020-02-24", 
+  //publishDate: "2022-03-28", 
   logos: [  
   {
     src: 'https://docs.geostandaarden.nl/bro/gen/logo_minbzk.png',
@@ -29,8 +29,8 @@ var respecConfig = {
   shortName: "wdm",
   pubDomain: "bro",
   github: "https://github.com/BROprogramma/WDM",
-  //previousPublishDate: "2017-01-01",
-  //previousStatus: "GN-CV",
+  previousPublishDate: "2022-03-28",
+  previousStatus: "GN-VV",
   localBiblio: { 
    
     "Bouwmans1990": {
