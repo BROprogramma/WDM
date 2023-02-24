@@ -1,6 +1,7 @@
 var respecConfig = {
   specStatus: "GN-WV",
   specType: "IM",
+	
   //subtitle: "BRO gegevenscatalogus",
  // publishDate: "2023-02-24", 
   logos: [  
@@ -29,8 +30,10 @@ var respecConfig = {
   shortName: "wdm",
   pubDomain: "bro",
   github: "https://github.com/BROprogramma/WDM",
+	
   previousPublishDate: "2023-02-24",
   previousStatus: "GN-CV",
+	
   localBiblio: { 
    
     "Bouwmans1990": {
